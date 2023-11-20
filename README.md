@@ -2,10 +2,6 @@
 
 A new Flutter project.
 
-# actions_app
-
-A new Flutter project.
-
 
 # Exploring GitHub Actions: A Comprehensive Guide
 
